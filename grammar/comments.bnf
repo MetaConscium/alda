@@ -1,0 +1,4 @@
+score         = (non-comment | <comment>)*
+comment       = <"#"> #".*" <#"(\n|\r|$)+">
+<non-comment> = !comment #".|\n|\r"
+

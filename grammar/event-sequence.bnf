@@ -1,0 +1,2 @@
+event-sequence          = <"["> <ows> music-data* <ows> <"]"> <ows>
+

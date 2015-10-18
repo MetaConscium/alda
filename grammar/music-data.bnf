@@ -1,0 +1,1 @@
+<music-data> = !(voice | <voice-zero> | clj-expr | event-sequence | cram) #".|\n|\r"
